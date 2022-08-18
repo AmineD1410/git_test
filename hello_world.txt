@@ -1,1 +1,3 @@
-Hello Github, learning from the Odin Project.
+Hello Github, learning from the Odin Project. 
+
+Testing commit message
